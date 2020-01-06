@@ -7,6 +7,8 @@ Changelog
 Changes
 ^^^^^^^
 
+- Add :func:`ntools.modify()`.
 - First release on PyPI.
+
 
 ---
