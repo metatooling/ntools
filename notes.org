@@ -1,0 +1,2 @@
+* TODO Add a deep clone/modify
+* TODO Handle __modify__ or __clone__ special method.
