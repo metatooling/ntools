@@ -10,5 +10,6 @@ Why does this file exist, and why __main__? For more info, read:
 """
 import ntools.cli
 
+
 if __name__ == "__main__":
     ntools.cli.cli()
